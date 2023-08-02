@@ -52,7 +52,8 @@ namespace AWBWApp.Game.API.Replay
     {
         League,
         Normal,
-        Tag
+        Tag,
+        LiveQueue
     }
 
     public class TurnData
